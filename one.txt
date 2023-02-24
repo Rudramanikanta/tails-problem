@@ -1,0 +1,12 @@
+,Team1,Team2
+Round 1,head,tail
+Round 2,head,tail
+Round 3,tail,head
+Round 4,head,tail
+Round 5,head,tail
+Round 6,head,tail
+Round 7,head,tail
+Round 8,tail,head
+Round 9,tail,head
+Round 10,tail,head
+Team1
